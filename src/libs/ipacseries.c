@@ -146,6 +146,8 @@ convertIPACSeries (json_object* jobj)
       retval = 0x30;
     if (!strcasecmp(str, "non US #"))
       retval = 0x32;
+    if (!strcasecmp(str, ";"))
+      retval = 0x33;
     if (!strcasecmp(str, "'"))
       retval = 0x34;
     if (!strcasecmp(str, "`"))

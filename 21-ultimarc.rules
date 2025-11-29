@@ -4,6 +4,7 @@ ACTION=="add", SUBSYSTEMS=="usb", ATTRS{idVendor}=="d209", ATTRS{idProduct}=="04
 ACTION=="add", SUBSYSTEMS=="usb", ATTRS{idVendor}=="d209", ATTRS{idProduct}=="0430", MODE:="666"
 ACTION=="add", SUBSYSTEMS=="usb", ATTRS{idVendor}=="d209", ATTRS{idProduct}=="0440", MODE:="666"
 ACTION=="add", SUBSYSTEMS=="usb", ATTRS{idVendor}=="d209", ATTRS{idProduct}=="0450", MODE:="666"
+ACTION=="add", SUBSYSTEMS=="usb", ATTRS{idVendor}=="d209", ATTRS{idProduct}=="0452", MODE:="666"
 ACTION=="add", SUBSYSTEMS=="usb", ATTRS{idVendor}=="d209", ATTRS{idProduct}=="0501", MODE:="666"
 ACTION=="add", SUBSYSTEMS=="usb", ATTRS{idVendor}=="d209", ATTRS{idProduct}=="0502", MODE:="666"
 ACTION=="add", SUBSYSTEMS=="usb", ATTRS{idVendor}=="d209", ATTRS{idProduct}=="0503", MODE:="666"

@@ -24,7 +24,7 @@ extern "C" {
 #define IPAC_2_PRODUCT        0x0420
 #define IPAC_4_PRODUCT        0x0430
 #define IPAC_M_PRODUCT        0x0440
-#define JPAC_PRODUCT          0x0450
+#define JPAC_PRODUCT          0x0452
 #define IPAC_SIZE_PRE_2015    100
 #define IPAC_INTERFACE        2
 
